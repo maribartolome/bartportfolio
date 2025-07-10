@@ -1,6 +1,10 @@
 # 🕒 Attendance and OT Tracker
 
-This tracker is designed to manage and monitor **daily attendance**, **overtime hours**, and **leave balances** for team members. It includes features to convert OT to banked hours, redeem hours for time off, and view real-time leave usage.
+This tracker is designed to manage and monitor **daily attendance**, **overtime hours**, and **leave balances** for team members. It includes features to convert OT to banked hours, redeem hours for time off, and view real-time leave usage. 
+
+Here's the link: https://docs.google.com/spreadsheets/d/1qkhF7kVk6tI6m1aqa1WdI3ABI7CA_sjAUrWii9CL7sY/edit?usp=sharing
+
+Simply make a copy and customize it according to your needs!
 
 ---
 
