@@ -65,7 +65,9 @@ Applies to all employees listed in the attendance tracker. Managed daily by the 
 
 ---
 
+**Template: https://docs.google.com/spreadsheets/d/1qkhF7kVk6tI6m1aqa1WdI3ABI7CA_sjAUrWii9CL7sY/edit?usp=sharing**
+
 ## 📝 Notes
-- Any OT not approved is not bankable.
+- Any OT not approved is unpaid ** but is bankable.**
 - Ensure redeemed hours match time-off durations.
 - Encourage employees to use banked hours before expiration, if policy applies.
